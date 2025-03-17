@@ -1,1 +1,54 @@
-# Arduino_projects
+# Arduino_projects# Arduino Projects
+
+This repository contains a collection of Arduino-based projects showcasing various sensor integrations and control mechanisms.
+
+## 🚀 Projects
+
+### 1️⃣ Joystick-Controlled LED and Buzzer System  
+🔹 **Description:** A joystick-based control system that lights up different LEDs and activates a buzzer based on movement direction and button press.  
+🔹 **Components Used:**  
+- Arduino Uno  
+- Joystick module  
+- LEDs (4x)  
+- Buzzer  
+
+🔹 **Features:**  
+✅ LED indicators for joystick movement (UP, DOWN, LEFT, RIGHT)  
+✅ Buzzer feedback with varying tones  
+✅ Serial monitor output for real-time data  
+
+---
+
+### 2️⃣ Ultrasonic Distance Detection with Servo  
+🔹 **Description:** A distance measurement system that uses an ultrasonic sensor mounted on a servo motor to scan an area and trigger a buzzer when an obstacle is detected within a threshold range.  
+🔹 **Components Used:**  
+- Arduino Uno  
+- Ultrasonic Sensor (HC-SR04)  
+- Servo Motor  
+- Buzzer  
+
+🔹 **Features:**  
+✅ Servo-controlled scanning motion (0° - 180°)  
+✅ Distance measurement in real-time  
+✅ Buzzer alarm when an object is closer than 5 cm  
+
+---
+
+### 3️⃣ Temperature and Humidity LCD Display  
+🔹 **Description:** A simple environmental monitoring system that reads temperature and humidity data using a DHT11 sensor and displays it on an LCD screen.  
+🔹 **Components Used:**  
+- Arduino Uno  
+- DHT11 Sensor  
+- LCD Display (16x2)  
+
+🔹 **Features:**  
+✅ Real-time temperature and humidity monitoring  
+✅ LCD display for easy readability  
+✅ Serial output for debugging  
+
+---
+
+## 🛠️ Setup & Usage
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/your-username/your-repo-name.git
