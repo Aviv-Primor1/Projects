@@ -1,4 +1,5 @@
 Hi there! 👋 Welcome to My GitHub
+
 My name is Aviv Primor
 
 I'm a passionate Electrical and Computer Engineering graduate from Ben Gurion University, specializing in VLSI and Communication. I'm currently seeking a junior hardware engineering position, bringing a mix of hardware design, embedded systems, and algorithm development expertise.
