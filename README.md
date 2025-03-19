@@ -22,3 +22,4 @@ I'm a passionate Electrical and Computer Engineering graduate from Ben Gurion Un
     Algorithms & Signal Processing: Image Processing, Communication Systems
 
 Feel free to explore my repositories, and let's connect! 🚀
+Email: avivprimor131296@gmail.com
